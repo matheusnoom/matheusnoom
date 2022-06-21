@@ -1,16 +1,29 @@
-### Hi there 👋
+Hello my name is Matheus Rodrigues and I am a Computer Information Systems student at the Federal University of Uberlandia (UFU). 
 
-<!--
-**matheusrod21/matheusrod21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Self-employed developer.
 
-Here are some ideas to get you started:
+<h4>ABOUT:</h4>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- reverse engineering
+- low-level programming
+- casual competitive programming
+
+
+
+<!-- <div style= "display: inline_block">
+            <img height="20" width="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
+            <img height="20" width="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" />
+            <img height="20" width="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" />  
+            <img height="20" width="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" />         
+            <img height="20" width="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" />
+            <img height="20" width="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />    
+</div> -->
+
+&nbsp;
+&nbsp;
+
+<div style= "display: inline_block">
+	<a href="https://www.hackerrank.com/moonpresence"><img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" /></a>
+            <a href="https://discord.gg/2kzpgydhqE"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" /></a>
+            <a href="mailto:matheusnoom@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+</div>
