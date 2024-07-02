@@ -1,12 +1,13 @@
-Hello my name is Matheus Rodrigues and I am a Computer Information Systems student at the Federal University of Uberlandia (UFU). 
+Hello, my name is Matheus Rodrigues, and I am a Computer Information Systems student at the Federal University of Uberlandia (UFU).
 
 Java Backend Engineer.
 
 <h4>ABOUT:</h4>
 
-- reverse engineering
-- low-level programming
-- casual competitive programming
+- Software engineer
+- Low-level programming
+- Algorithms and data structures
+- Casual competitive programming
 
 
 
